@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/exploring-js/',
   title: 'Exploring JS',
   themeConfig: {
     nav: [
