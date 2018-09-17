@@ -13,7 +13,7 @@ module.exports = {
       },
     ],
     sidebar: {
-      '/exploring-es6/': ['', 'Core ES6 features'],
+      '/exploring-es6/': ['', 'core-es6-features'],
       '/exploring-es2016-and-es2017/': [],
     },
   },
