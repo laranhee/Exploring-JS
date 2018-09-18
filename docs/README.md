@@ -1,1 +1,3 @@
-# 하이
+# Exploring JS
+
+http://exploringjs.com/
