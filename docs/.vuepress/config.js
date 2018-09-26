@@ -14,8 +14,16 @@ module.exports = {
     ],
     sidebar: {
       '/exploring-es6/': ['', 'core-es6-features'],
-      '/exploring-es2016-and-es2017/': [],
+      '/exploring-es2016-and-es2017/': [
+        '',
+        {
+          title: 'ECMAScript 2017',
+          collapsable: false,
+          children: ['async-functions'],
+        },
+      ],
     },
+    sidebarDepth: 2,
   },
   //   description: "Just playing around"
 };
