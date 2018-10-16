@@ -11,6 +11,10 @@ module.exports = {
         text: 'Exploring ES2016 and ES2017',
         link: '/exploring-es2016-and-es2017/',
       },
+      {
+        text: 'JavaScript for impatient programmers',
+        link: '/javascript-for-impatient-programmers/',
+      },
     ],
     sidebar: {
       '/exploring-es6/': ['', 'core-es6-features'],
@@ -22,6 +26,7 @@ module.exports = {
           children: ['async-functions'],
         },
       ],
+      '/javascript-for-impatient-programmers/': ['', 'operators'],
     },
     sidebarDepth: 2,
   },
